@@ -1,5 +1,6 @@
 # calculadorafromjavatokt2
 Primer commit
 
-#IMPORTANTE
-hacer un proyecto en kotlin para luego importar el archivo de java des de donde provenga
+Esta es la calculadora de la leccion 01 del modulo 4, pero donde se ejecutan pruebas unitarias para la leccion 05 del modulo 4
+
+para este ejemplo en com.example...(android test) se ha dejado "TestDeDivision"
